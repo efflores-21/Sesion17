@@ -1,0 +1,12 @@
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\bin\Debug\Sesion17.exe.config
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\bin\Debug\Sesion17.exe
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\bin\Debug\Sesion17.pdb
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\obj\Debug\Sesion17.csproj.AssemblyReference.cache
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\obj\Debug\Sesion17.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\obj\Debug\Sesion17.Form1.resources
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\obj\Debug\Sesion17.Formularios.ProductoFrm.resources
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\obj\Debug\Sesion17.Properties.Resources.resources
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\obj\Debug\Sesion17.csproj.GenerateResource.cache
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\obj\Debug\Sesion17.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\obj\Debug\Sesion17.exe
+C:\Users\labc202\Desktop\Sesion17\Sesion17\Sesion17\obj\Debug\Sesion17.pdb
